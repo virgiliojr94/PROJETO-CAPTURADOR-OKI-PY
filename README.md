@@ -1,2 +1,3 @@
 # PROJETO-CAPTURADOR-OKI-PY
- PRIMEIRO SISTEMA DE MINHA CRIAÇÃO, TEM COMO OBJETIVO CAPTURAR OS CONTADORES DE PRODUÇÃO DAS IMPRESSORAS DE MARCA OKI DATA, PODE SER ADAPTADO PARA IMPRESSORAS DE OUTRAS MARCAS.
+
+Primeiro sistema de minha criação, tem como objetivo capturar os contadores de produção das impressoras de marca OKI DATA, pode ser adaptado para impressoras de outras marcas.
